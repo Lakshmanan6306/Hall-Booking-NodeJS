@@ -1,0 +1,18 @@
+{
+  "name": "hall-booking-nodejs",
+  "version": "1.0.0",
+  "description": "TASK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Lakshmanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2",
+    "nodemon": "^2.0.22",
+    "validator": "^13.9.0"
+  }
+}
